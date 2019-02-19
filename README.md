@@ -77,7 +77,7 @@ which can be installed as follows:
 conda env create -f environment.yaml
 ```
 
-To install the *audio_sheet_retrieval* package in develop mode (this is what we recommend) run
+To install the *msmd* package in develop mode (this is what we recommend) run
 ```
 python setup.py develop --user
 ```
